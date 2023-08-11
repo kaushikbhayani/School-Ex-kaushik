@@ -1,0 +1,87 @@
+.grid-sytyle {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+.grid-col-style {
+  background-color: #fff;
+  /* background-color: #affc41; */
+  border-radius: 20px;
+  margin: 20px;
+
+  box-shadow: 1px 7px 15px -3px rgba(0, 0, 0, 0.22);
+}
+
+/* ==========================? */
+
+.mossion-style {
+  margin-bottom: 0;
+  line-height: 1em;
+  font-weight: 400;
+
+  margin: 0vh 0px 5vh 0px;
+}
+
+.stars {
+  display: flex;
+  width: 30vw;
+  min-width: 200px;
+  flex-flow: row nowrap;
+}
+.img-div-sairam {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+}
+
+.avtar {
+  border-radius: 50%;
+  width: 67px;
+  height: 67px;
+  text-align: center;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  background-color: orange;
+  align-items: center;
+}
+.avtar:hover {
+  box-shadow: inset 0px 0px 8px 6px rgba(255, 255, 255, 1);
+  background-color: #386fa4;
+  color: orange;
+}
+
+.icon-question-Style {
+  display: flex;
+  justify-content: center;
+  padding: 5rem;
+  border-radius: 1.5rem;
+}
+
+/* ============================= */
+
+.overlay {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  left: 0;
+  top: 0;
+  z-index: 1;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  background: rgba(56, 112, 164, 0.9);
+}
+
+.cdb {
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-content: center;
+  padding: 5rem 5rem 5rem 5rem;
+}

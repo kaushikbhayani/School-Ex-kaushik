@@ -1,0 +1,18 @@
+.css-11b3ww9-MuiPaper-root-MuiAppBar-root {
+  /* background: rgb(231, 64, 64);
+  background: linear-gradient(
+    180deg,
+    rgba(231, 64, 64, 1) 0%,
+    rgba(132, 190, 150, 0) 100%
+  ) !important; */
+  background-color: #386fa4 !important;
+  color: #ffff !important;
+  box-shadow: none !important;
+}
+.css-1kkpk3h-MuiButtonBase-root-MuiButton-root {
+  color: #ffff !important;
+}
+
+.css-11b3ww9-MuiPaper-root-MuiAppBar-root {
+  color: #ffbd33 !important;
+}

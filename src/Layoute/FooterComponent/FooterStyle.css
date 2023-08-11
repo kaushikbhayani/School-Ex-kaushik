@@ -1,0 +1,39 @@
+/* footer part */
+.main-footer {
+    background-color: #111;
+    color: gray;
+  }
+  
+  .middle {
+    color: orange;
+    font-weight: 700;
+    font-size: 25px;
+  }
+  
+  .get {
+    color: orange;
+  }
+  
+  .spanstyle {
+    margin-left: 1rem;
+  }
+  
+  .spanstyles {
+    margin-left: 4rem;
+    color: #fff;
+  }
+  
+  .img {
+    width: 50px;
+    height: 40px;
+  }
+  
+  .list-inline-item {
+    font-size: 35px;
+    color: grey;
+  }
+  
+  .list-inline-item:hover {
+    color: crimson;
+  
+  }

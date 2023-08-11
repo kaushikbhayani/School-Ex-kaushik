@@ -1,0 +1,14 @@
+.Text-Div {
+  width: 100%;
+  height: 30rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #386fa4;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-content: center;
+}
+/* .splide.is-initialized {
+  padding: 0;
+} */
